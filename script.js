@@ -1,1 +1,1 @@
-alert("")
+alert("How can I help you ?")
